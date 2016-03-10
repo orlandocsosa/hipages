@@ -1,0 +1,1 @@
+hiPages positive and negative automated test for the search functionality.
